@@ -1,0 +1,33 @@
+{
+  "name": "ip-api",
+  "version": "1.0.0",
+  "description": "Implementaion of IP-API.com in Node.js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-jshint": "1.10.0",
+    "gulp-markdown": "1.0.0"
+  },
+  "scripts": {
+    "main": "node index.js",
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffResc/IP-API-Node.js.git"
+  },
+  "keywords": [
+    "TinyURL",
+    "url",
+    "short",
+    "shortener"
+  ],
+  "author": "AlphaT3ch",
+  "bugs": {
+    "url": "https://github.com/JeffResc/IP-API-Node.js/issues"
+  },
+  "homepage": "https://github.com/JeffResc/IP-API-Node.js",
+  "readmeFile": "README.md",
+  "license": "MIT"
+}
