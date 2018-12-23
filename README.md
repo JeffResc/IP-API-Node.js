@@ -1,11 +1,11 @@
-[![NPM](https://nodei.co/npm/ip-api.png?downloads=true&stars=true)](https://npmjs.com/package/ip-api/)
+[![NPM](https://nodei.co/npm/@alphat3ch/ip-api.png?downloads=true&stars=true)](https://npmjs.com/package/@alphat3ch/ip-api/)
 
 # IP-API [![Build Status](https://travis-ci.org/JeffResc/IP-API-Node.js.svg?branch=master)](https://travis-ci.org/JeffResc/IP-API-Node.js)
 Implementaion of IP-API.com in Node.js
 
 Example Shorten:
 
-First run ```npm install ip-api``` to install the IP-API package to your system.
+First run ```npm install @alphat3ch/ip-api``` to install the IP-API package to your system.
 
 ```javascript
 var ipapi = require('ip-api');
