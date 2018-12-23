@@ -8,7 +8,7 @@ Example Shorten:
 First run ```npm install @alphat3ch/ip-api``` to install the IP-API package to your system.
 
 ```javascript
-var ipapi = require('ip-api');
+var ipapi = require('@alphat3ch/ip-api');
 
 ipapi.lookup('2.5.5.5', '262143', function(res) {
 	console.log(res);
